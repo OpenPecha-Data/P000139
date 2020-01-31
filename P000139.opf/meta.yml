@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །རིགས་དཀྱིལ་རྒྱ་མཚོའི་ཁྱབ་བདག་རྗེ་བཙུན་བླ་མ་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་རིས་མེད་བསྟན་པའི་རྒྱལ་མཚན་གཙུག་ལག་ལུང་རིགས་ཉི་མ་སྨྲ་བའི་སེང་གེ་དཔལ་བཟང་པོའི་རྣམ་ཐར་ཆ་ཤས་ཙམ་བརྗོད་པ་ངོ་མཚར་ཡོངས་འདུས་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-03
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: A Grove of the Most Amazing Wish-Fulfilling Trees:A Biography of Dzongsar
+      Khyentse Chokyi Lodro
+    bo: རིགས་དཀྱིལ་རྒྱ་མཚོའི་ཁྱབ་བདག་རྗེ་བཙུན་བླ་མ་འཇམ་དབྱངས་ཆོས་ཀྱི་བློ་གྲོས་རིས་མེད་བསྟན་པའི་རྒྱལ་མཚན་གཙུག་ལག་ལུང་རིགས་ཉི་མ་སྨྲ་བའི་སེང་གེ་དཔལ་བཟང་པོའི་རྣམ་ཐར་ཆ་ཤས་ཙམ་བརྗོད་པ་ངོ་མཚར་ཡོངས་འདུས་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Dilgo Khyentse Series–  Book 3
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༣
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-03
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-03.epub
+  description:
+    en: ''
+    bo: ''
